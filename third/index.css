@@ -1,0 +1,42 @@
+
+body{
+    margin: 0px;
+}
+
+div{
+    width: 100vw;
+    height: 15vh;
+}
+
+.greyRow{
+    background-color:#D8D8D8;
+    height: 10vh;
+    padding: 10px;
+    padding-left: 15px;
+}
+
+.square{
+    height: 70px;
+    width: 75px;
+}
+
+.textField{
+    height: 25vh;
+    padding: 25px;
+}
+
+#blue{
+    background-color: 	#4990E2;
+}
+
+#turquoise{
+    background-color: #4FE3C1;
+}
+
+#green{
+    background-color: #BBE786;
+}
+
+#yellow{
+    background-color:#F8E71E;
+}
